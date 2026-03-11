@@ -1,6 +1,37 @@
-#  About Me:
-# Hi, I'm Rohan <br><br>Software developer focused on building scalable backend systems and modern mobile applications. I work primarily with Java, Spring Boot, and Flutter, developing APIs, backend services, and cross-platform applications.<br><br>My interests include backend architecture, system design, and building real-world software solutions. I enjoy working on challenging problems, participating in hackathons, and continuously improving my engineering skills through hands-on projects and open-source exploration.<br><br> Tech Stack<br><br>Languages<br>Java • Dart • SQL<br><br>Backend Development<br>Spring Boot • REST APIs • JPA / Hibernate • Microservice Concepts<br><br>Mobile Development<br>Flutter • Android Development • Riverpod<br><br>Databases<br>MySQL • SQLite • Firebase Firestore<br><br>Tools & Platforms<br>Git • GitHub • Docker • Gradle<br><br>Technologies & Integrations<br>Google Maps API • Location Services • Text-to-Speech (TTS) • Audio Streaming<br><br> Areas of Interest<br><br>Backend Engineering<br>System Design<br>API Development<br>Scalable Application Architecture<br>Open Source<br>
+# About Me
 
+## Hi, I'm Rohan
+
+Software developer focused on building scalable backend systems and modern mobile applications. I work primarily with Java, Spring Boot, and Flutter, developing APIs, backend services, and cross-platform applications.
+
+My interests include backend architecture, system design, and building real-world software solutions. I enjoy working on challenging problems, participating in hackathons, and continuously improving my engineering skills through hands-on projects and open-source exploration.
+
+## Tech Stack
+
+### Languages
+Java • Dart • SQL
+
+### Backend Development
+Spring Boot • REST APIs • JPA / Hibernate • Microservice Concepts
+
+### Mobile Development
+Flutter • Android Development • Riverpod
+
+### Databases
+MySQL • SQLite • Firebase Firestore
+
+### Tools & Platforms
+Git • GitHub • Docker • Gradle
+
+### Technologies & Integrations
+Google Maps API • Location Services • Text-to-Speech (TTS) • Audio Streaming
+
+## Areas of Interest
+- Backend Engineering  
+- System Design  
+- API Development  
+- Scalable Application Architecture  
+- Open Source
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohan-rai-500ba9289/) 
